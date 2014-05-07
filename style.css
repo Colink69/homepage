@@ -32,3 +32,10 @@ position:fixed;
 top:120px;
 left:30px;
 } 
+
+#imagefond
+{
+position:absolute;
+bottom: 0px;
+right: 0px;
+}

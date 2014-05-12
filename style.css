@@ -8,34 +8,32 @@ font-family: "Bebas Neue";
 #texte1
 {
 position:fixed;
-top:30px;
-left:30px;
+left:5%;
 } 
 
 #texte2
 {
 position:fixed;
-top:60px;
-left:30px;
+left:25%;
 } 
 
 #texte3
 {
 position:fixed;
-top:90px;
-left:30px;
+right:35%;
 } 
 
 #texte4
 {
 position:fixed;
-top:120px;
-left:30px;
+right:5%;
 } 
 
-#imagefond
+#image2
 {
 position:absolute;
 bottom: 0px;
 right: 0px;
+-webkit-transform:rotateY(180deg); /* Chrome, Safari, Opera */
+transform:rotateY(180deg); /* Standard syntax */
 }
